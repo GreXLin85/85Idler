@@ -1,0 +1,16 @@
+{
+  "name": "nodeidle",
+  "version": "1.0.0",
+  "description": "Console Based Steam Idler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "GreXLin85",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "idler": "^0.1.1",
+    "yargs": "^14.2.0"
+  }
+}
